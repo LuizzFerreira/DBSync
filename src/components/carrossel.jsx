@@ -11,7 +11,7 @@ export default function Carrossel() {
           pagination: true,
           arrows: true,
           autoplay: true,
-          interval: 1000,
+          interval: 5000,
           pauseOnHover: true,
         }}
         style={{ width: '100%' }}
